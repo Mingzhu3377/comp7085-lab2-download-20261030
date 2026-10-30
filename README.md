@@ -10,6 +10,8 @@ Student ID: 26460793
 2. Open START_HERE.html, or open the report PDF directly.
 3. Keep the Websites folder intact. All local pages work without GPT login.
 
+GA4 guide: GA4_Visual_Guide_ZH.pdf (Chinese illustrated access and resource verification guide).
+
 Report: COMP7085_Lab2_HU_Jie_26460793.pdf
 Websites/Canva: genuine saved first-screen thumbnail; full Canva export unavailable.
 Websites/Odoo: offline rendering of the source saved in the Odoo editor, without an Odoo backend.
