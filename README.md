@@ -12,7 +12,7 @@ Student ID: 26460793
 
 GA4 guide: GA4_Visual_Guide_ZH.pdf (Chinese illustrated access and resource verification guide).
 
-Report: COMP7085_Lab2_HU_Jie_26460793.pdf
+Report: COMP7085_Lab2_HU_Jie_26460793.pdf (21 pages; simpler English; References section removed)
 Websites/Canva: genuine saved first-screen thumbnail; full Canva export unavailable.
 Websites/Odoo: offline rendering of the source saved in the Odoo editor, without an Odoo backend.
 Websites/GenAI: complete interactive classroom prototype with simulated transactions.
