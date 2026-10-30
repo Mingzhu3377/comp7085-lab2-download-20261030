@@ -1,20 +1,20 @@
-# Lab 2 资料下载
+# COMP7085 Lab 2
 
-作者：**HU Jie**。
+[Download encrypted ZIP](./COMP7085_Lab2.zip?raw=1)
 
-[下载加密 ZIP](./lab2-materials-encrypted.zip?raw=1)
+COMP7085 Lab 2
+Author: HU Jie
+Student ID: 26460793
 
-公开仓库只保存加密包、下载说明和校验值。密码已通过私下渠道约定，不在仓库中保存。
+1. Extract this encrypted ZIP with the agreed password using 7-Zip or WinRAR.
+2. Open START_HERE.html, or open the report PDF directly.
+3. Keep the Websites folder intact. All local pages work without GPT login.
 
-## 在机房使用
+Report: COMP7085_Lab2_HU_Jie_26460793.pdf
+Websites/Canva: genuine saved first-screen thumbnail; full Canva export unavailable.
+Websites/Odoo: offline rendering of the source saved in the Odoo editor, without an Odoo backend.
+Websites/GenAI: complete interactive classroom prototype with simulated transactions.
+Evidence: original platform screenshots. GA4 screenshots retain their original Chinese interface; the English analysis tables transcribe those values.
 
-1. 下载 `lab2-materials-encrypted.zip`。
-2. 用支持 AES 加密 ZIP 的 7-Zip 或 WinRAR，输入约定密码解压。
-3. 得到 `Lab2_materials.zip` 后，再普通解压一次。
-4. 双击 `00_打开全部原型.html`，即可进入三个本地原型；正式报告也在该目录页中提供入口。
-5. Canva 入口显示真实生成图的静态存档；Odoo 入口显示已保存原型源码的离线副本；GenAI 入口提供完整模拟购物交互。它们不依赖原平台账号或临时演示数据库。
-6. 也可打开 `00_先看这里.txt` 查看说明。保留完整目录结构，无需登录 GPT，也无需安装开发环境。
-
-包含报告、网站源码、Odoo 导入文件、截图、GA4 数据记录和复核资料。外层加密包只显示一个通用文件名，具体资料目录也在加密内容中。
-
-文件校验值见 [SHA256SUMS.txt](./SHA256SUMS.txt)。
+No claim of a published Canva website or a recovered full Canva export is made.
+The original Canva design requires access to its owning account for export.
