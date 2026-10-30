@@ -14,7 +14,7 @@ Report: COMP7085_Lab2_HU_Jie_26460793.pdf
 Websites/Canva: genuine saved first-screen thumbnail; full Canva export unavailable.
 Websites/Odoo: offline rendering of the source saved in the Odoo editor, without an Odoo backend.
 Websites/GenAI: complete interactive classroom prototype with simulated transactions.
-Evidence: original platform screenshots. GA4 screenshots retain their original Chinese interface; the English analysis tables transcribe those values.
+Evidence: original platform screenshots. Report GA4 screenshots were recaptured in the English interface, preserving the same date range and values.
 
 No claim of a published Canva website or a recovered full Canva export is made.
 The original Canva design requires access to its owning account for export.
